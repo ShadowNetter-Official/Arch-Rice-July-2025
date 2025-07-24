@@ -71,7 +71,7 @@ git clone https://github.com/ShadowNetter-Official/Arch-Rice-July-2025.git
 cd Arch-Rice-July-2025
 ```
 
-### 5. Configure BSPWM and Other Tools
+### 5. Configure FVWM and Other Tools
 
 ```bash
 mkdir ~/.config/rofi
