@@ -7,7 +7,7 @@ echo
 read -p "press enter to start: "
 echo
 echo "installing required packages..."
-sudo pacman -S kitty lightdm-gtk-greeter ttf-jetbrains-mono-nerd firefox rofi fastfetch python-pipx htop cmatrix nitrogen chafa
+sudo pacman -S kitty lightdm-gtk-greeter ttf-jetbrains-mono-nerd firefox rofi fastfetch python-pipx htop cmatrix nitrogen chafa git
 echo
 echo "done"
 echo
