@@ -34,11 +34,18 @@ A TempleOS inspired rice for **Arch Linux** using **FVWM**.
 
 ---
 
+## Key Binds
+
+- Windows + Enter --> Open terminal
+- Windows + W --> Close focused window
+- Windows + Space --> Open Rofi
+
+---
 ## Setup Guide
 
 To use this rice on a fresh Arch Linux install, follow these steps:
 
-### Use installation script
+## Use installation script
 
 ```bash
 wget https://raw.githubusercontent.com/ShadowNetter-Official/Arch-Rice-July-2025/main/install.sh && sh install.sh
