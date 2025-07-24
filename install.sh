@@ -35,6 +35,7 @@ mkdir ~/.config/rofi
 mkdir ~/.config/fastfetch
 mkdir ~/wallpapers
 mkdir ~/.config/kitty
+mkdir ~/.fvwm
 cp config/fvwm/config ~/.fvwm/
 rm ~/.bashrc
 cp config/bashrc ~/.bashrc
