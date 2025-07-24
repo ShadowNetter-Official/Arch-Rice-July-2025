@@ -48,7 +48,7 @@ wget https://raw.githubusercontent.com/ShadowNetter-Official/Arch-Rice-July-2025
 ### 1. Install Required Packages
 
 ```bash
-sudo pacman -S kitty lightdm-gtk-greeter ttf-jetbrains-mono-nerd firefox rofi fastfetch python-pipx htop cmatrix nitrogen chafa
+sudo pacman -S kitty lightdm-gtk-greeter ttf-jetbrains-mono-nerd firefox rofi fastfetch python-pipx htop cmatrix nitrogen chafa git
 ```
 ### 2. Install YAY (AUR Helper)
 
