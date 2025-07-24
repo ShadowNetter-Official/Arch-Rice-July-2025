@@ -1,0 +1,9 @@
+# WALLPAPER
+
+Exec exec nitrogen --set-scaled ~/wallpapers/wallpaper.png &
+
+# KEYBINDS
+
+Key Return A 4 Exec exec kitty
+Key W A 4 Close
+Key Space A 4 Exec exec rofi -show drun
