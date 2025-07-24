@@ -46,6 +46,7 @@ cp config/rofi/config.rasi ~/.config/rofi/
 sudo systemctl enable lightdm.service
 pipx install git+https://github.com/rmaake1/terminal-rain-lightning.git
 wget https://raw.githubusercontent.com/unxsh/nitch/main/setup.sh && sh setup.sh
+yay -S fvwm
 echo
 echo "done"
 echo
