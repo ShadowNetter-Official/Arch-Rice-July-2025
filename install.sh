@@ -26,7 +26,7 @@ echo "done"
 echo
 echo "cloning repo..."
 git clone https://github.com/ShadowNetter-Official/Arch-Rice-July-2025.git
-cd Arch-Rice
+cd Arch-Rice-July-2025
 echo
 echo "done"
 echo
