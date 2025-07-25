@@ -85,6 +85,7 @@ mkdir ~/.config/rofi
 mkdir ~/.config/fastfetch
 mkdir ~/wallpapers
 mkdir ~/.config/kitty
+mkdir ~/.fvwm
 cp config/fvwm/config ~/.fvwm/
 rm ~/.bashrc
 cp config/bashrc ~/.bashrc
@@ -95,6 +96,7 @@ cp config/rofi/config.rasi ~/.config/rofi/
 sudo systemctl enable lightdm.service
 pipx install git+https://github.com/rmaake1/terminal-rain-lightning.git
 wget https://raw.githubusercontent.com/unxsh/nitch/main/setup.sh && sh setup.sh
+yay -S fvwm
 ```
 
 ### 6. Done :)
